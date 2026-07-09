@@ -1,2 +1,2 @@
 # brightlaunchiq.github.io
-Official GitHub Pages site for BrightLaunchIQ
+Pages site for BrightLaunchIQ
